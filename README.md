@@ -1,5 +1,5 @@
 <h2>Trending Stocks Screener</h2>
-A Python script that scrapes Finviz for high-growth stocks based on specific screening criteria and exports the ticker symbols to a CSV file.
+A Python script that scrapes Finviz for high-growth stocks based on specific screening criteria and exports the ticker symbols to a CSV file, according to Ross Cameron's style of trading.
 
 Productivity script to scan for daily trending high volatilty stocks of at least 10% change, 5x relative volume, small cap stock (20M). These stocks narrow down big movers and extremely liquid movers for the day. Results are printed and exported as a CSV to allow for easy WeBull watchlist drop or generally import. Utilizes FinViz's API.
 
